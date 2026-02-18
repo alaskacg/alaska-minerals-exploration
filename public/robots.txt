@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
 
-Sitemap: https://alaskamineralexploration.com/sitemap.xml
+Sitemap: https://akmineralexploration.com/sitemap.xml
